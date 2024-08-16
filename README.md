@@ -8,7 +8,7 @@
 <a href="https://codepen.io/@sindordev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sindordev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sindor olmasov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sindor olmasov" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/28138498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28138498" height="30" width="40" /></a>
-<a href="https://instagram.com/sindor.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sindor_.712" height="30" width="40" /></a>
+<a href="https://instagram.com/sindor_.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sindor_.712" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
