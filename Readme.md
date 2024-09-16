@@ -2,7 +2,7 @@
 <h3 align="center">Hello, my name is Sindor Welcome to My Resume</h3>
 
 - 📫 How to reach me **sindordev77@gmail.com**
--  My Portfolio Web Cite <a href="sindor.vercel.app" target="blank">My Portfolio Site</a>
+-  My Portfolio Web Cite <a href="https://sindor.vercel.app/" target="blank">My Portfolio Site</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
