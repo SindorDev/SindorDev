@@ -19,7 +19,5 @@
 <br/>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sindordev&show_icons=true&locale=en&layout=compact" alt="sindordev" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sindordev&show_icons=true&locale=en" alt="sindordev" /></p>
 
