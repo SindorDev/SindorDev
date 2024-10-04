@@ -28,7 +28,7 @@
 
 <div>
   <h1 align="center">hey there I'm Sindor 👋</h1>
-   <a align="center" href="https://sindor.vercel.app/" target="_blank">
+   <a align="center" href="https://sindorolmasov.uz/" target="_blank">
      My Portfolio Web Site
   </a>
 </div>
